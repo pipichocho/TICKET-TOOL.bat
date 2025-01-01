@@ -34,5 +34,10 @@ It was downloaded in the .zip file
 It should popup a banner reading "TICKET TOOL"
 
 #Please do not copy my code
+I studied code for a long time and I don't want someone to copy this
+
 #Upload to Github on 1/1/2025
+I just woke up after I went to the FIREWORKS! 🎆
+
 #Happy New Year!
+I will update soon!😄
